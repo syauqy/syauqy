@@ -5,7 +5,6 @@ I'm currently a product manager at [Jala](https://jala.tech), a SaaS startup tha
 Currently spending free time learning React, Typescript, Mapbox, and Tensorflow.js 
 
 <a href="https://www.linkedin.com/in/syauqyaziz/"><img src="https://img.shields.io/badge/-@syauqy-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/syauqyaziz/" alt="LinkedIn Badge"></a> 
-<a href="https://volt.fm/syauqy"><img src="https://img.shields.io/badge/-@Syauqy%20Aziz-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://volt.fm/syauqy" alt="Spotify Badge"></a>
 
 Some of the fun projects that I've done or are currently working on,
 - 🤟 [Handsign](https://github.com/syauqy/handsign-tensorflow-gatsby) : Simple ASL (American Sign Language) alphabet detection using Tensorflow.js
