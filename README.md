@@ -1,11 +1,12 @@
 # Hi there, I'm Syauqy 👋
 
 I'm currently a product manager at [Jala](https://jala.tech), a SaaS startup that helps shrimp farmers manage their farms using data.
-I'm also working on a new project called [Matcharge](https://matcharge.app), Simple subscriptions and free trials tracker and reminder.
 
 Currently spending free time building mobile apps for iOS
-<a href="https://getpippin.app"><img src="https://www.getpippin.app/logos/app-icon-mix-2.jpg" alt="Pippin Overthinking Journal Logo"></a>
 
+<a href="https://getpippin.app"><img src="https://www.getpippin.app/logos/app-icon-mix-2.jpg" width="100" height="100" alt="Pippin Overthinking Journal Logo"></a>
+
+<a href="https://apps.apple.com/us/app/bill-organizer-matcharge/id6752604627?itscg=30200&itsct=apps_box_badge&mttnsubad=6752604627"><img src="https://ik.imagekit.io/ps3xes4nrg/matcharge/matcharge-app-icon_nHNLAGGcI.png?updatedAt=1761149214060" width="300" height="300" alt="Matcharge Subscription Manager"></a>
 
 <a href="https://www.linkedin.com/in/syauqyaziz/"><img src="https://img.shields.io/badge/-@syauqy-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/syauqyaziz/" alt="LinkedIn Badge"></a> 
 
